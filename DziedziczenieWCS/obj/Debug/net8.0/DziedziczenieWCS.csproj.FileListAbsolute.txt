@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\DziedziczenieWCS\bin\Debug\net8.0\DziedziczenieWCS.exe
+C:\Users\48571\source\repos\DziedziczenieWCS\bin\Debug\net8.0\DziedziczenieWCS.deps.json
+C:\Users\48571\source\repos\DziedziczenieWCS\bin\Debug\net8.0\DziedziczenieWCS.runtimeconfig.json
+C:\Users\48571\source\repos\DziedziczenieWCS\bin\Debug\net8.0\DziedziczenieWCS.dll
+C:\Users\48571\source\repos\DziedziczenieWCS\bin\Debug\net8.0\DziedziczenieWCS.pdb
+C:\Users\48571\source\repos\DziedziczenieWCS\obj\Debug\net8.0\DziedziczenieWCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\DziedziczenieWCS\obj\Debug\net8.0\DziedziczenieWCS.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\DziedziczenieWCS\obj\Debug\net8.0\DziedziczenieWCS.AssemblyInfo.cs
+C:\Users\48571\source\repos\DziedziczenieWCS\obj\Debug\net8.0\DziedziczenieWCS.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\DziedziczenieWCS\obj\Debug\net8.0\DziedziczenieWCS.dll
+C:\Users\48571\source\repos\DziedziczenieWCS\obj\Debug\net8.0\refint\DziedziczenieWCS.dll
+C:\Users\48571\source\repos\DziedziczenieWCS\obj\Debug\net8.0\DziedziczenieWCS.pdb
+C:\Users\48571\source\repos\DziedziczenieWCS\obj\Debug\net8.0\DziedziczenieWCS.genruntimeconfig.cache
+C:\Users\48571\source\repos\DziedziczenieWCS\obj\Debug\net8.0\ref\DziedziczenieWCS.dll

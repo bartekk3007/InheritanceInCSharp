@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DziedziczenieWCS/1.0.0": {
+        "runtime": {
+          "DziedziczenieWCS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DziedziczenieWCS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
